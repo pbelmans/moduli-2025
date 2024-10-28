@@ -16,22 +16,23 @@ especially for junior participants.
 If you wish to apply for this, please do so <strong>before October 31</strong>.
 
 <h3>List of speakers</h3>
-<ul>
-  <li><a href="https://people.bath.ac.uk/ac886/">Alastair Craw</a>
-  <li>Mátyás Domokos</a>
-  <li><a href="https://www.math.leidenuniv.nl/~duttay/">Yagna Dutta</a>
-  <li><a href="https://irma.math.unistra.fr/~lfu/">Lie Fu</a>
-  <li><a href="https://webspace.science.uu.nl/~kool0009/">Martijn Kool</a>
-  <li><a href="https://j-krah.github.io/">Johannes Krah</a>
-  <li><a href="https://sites.google.com/site/andkrugmath/">Andreas Krug</a>
-  <li><a href="https://www.imo.universite-paris-saclay.fr/~emanuele.macri/">Emanuele Macrì</a>
-  <li><a href="https://sites.google.com/view/tudorpadurariu/home">Tudor Padurariu</a>
-  <li><a href="https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/reineke.html.de">Markus Reineke</a>
-  <li><a href="https://aricolfi.github.io">Andrea Ricolfi</a>
-  <li><a href="https://kamilrychlewicz.github.io">Kamil Rychlewicz</a>
-  <li><a href="https://www.ulb.be/fr/spela-spenko">Špela Špenko</a>
-  <li><a href="https://yifeizhao.com">Yifei Zhao</a>
+<ul class="names">
+{% for speaker_id in site.data.speakers %}
+{% assign speaker = speaker_id[1] %}
+  <li><span class="name">
+  {% if speaker.website %}
+    <a href="{{ speaker.website }}">{{ speaker.name }}</a>
+  {% else %}
+    {{ speaker.name }}
+  {% endif %}
+  </span>
+  {% if speaker.online %}
+    *
+  {% endif %}
+  (<span class="affiliation">{{ speaker.affiliation }}</span>)
+{% endfor %}
 </ul>
+
 
 <h3>Organisation</h3>
 <p>The workshop is organised by

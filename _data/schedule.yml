@@ -1,0 +1,38 @@
+- date: Tuesday, November 26
+  slots:
+    [
+      { time: "08:30&ndash;09:30", other: "registration" },
+      { time: "09:30&ndash;10:30", talk: },
+      { time: "10:30&ndash;11:00", other: "break" },
+      { time: "11:00&ndash;12:00", talk: },
+      { time: "12:00&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;15:00", talk: },
+      { time: "15:15&ndash;16:15", talk: },
+      { time: "16:15&ndash;16:45", other: "break" },
+      { time: "16:45&ndash;17:45", talk: },
+    ]
+
+- date: Wednesday, November 27
+  slots:
+    [
+      { time: "09:30&ndash;10:30", talk: },
+      { time: "10:30&ndash;11:00", other: "break" },
+      { time: "11:00&ndash;12:00", talk: },
+      { time: "12:00&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;15:00", talk: },
+      { time: "15:15&ndash;16:15", talk: },
+      { time: "16:15&ndash;16:45", other: "break" },
+      { time: "16:45&ndash;17:45", talk: },
+    ]
+
+- date: Thursday, November 28
+  slots:
+    [
+      { time: "09:30&ndash;10:30", talk: },
+      { time: "10:30&ndash;11:00", other: "break" },
+      { time: "11:00&ndash;12:00", talk: },
+      { time: "12:00&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;15:00", talk: },
+      { time: "15:15&ndash;16:15", talk: },
+      { time: "16:15&ndash;17:00", other: "closing" },
+    ]
