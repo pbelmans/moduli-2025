@@ -1,0 +1,5 @@
+ricolfi:
+  title: The motive of the Hilbert scheme of points in all dimensions
+  speaker: ricolfi
+  abstract: >
+    <p>The geometry of Hilbert schemes of points is largely unknown, or known to be pathological in a precise sense. This should in principle make most Hilbert scheme invariants essentially inaccessible. We present a closed formula for the generating function of the motives (classes in the Grothendieck ring of varieties) of Hilbert schemes of points $\mathrm{Hilb}(\mathbb{C}^n,d)$, varying the ambient dimension $n$ and having fixed the number of points $d$. Joint work with M. Graffeo, S. Monavari and R. Moschetti.
