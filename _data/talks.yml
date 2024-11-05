@@ -15,3 +15,10 @@ ricolfi:
   speaker: ricolfi
   abstract: >
     <p>The geometry of Hilbert schemes of points is largely unknown, or known to be pathological in a precise sense. This should in principle make most Hilbert scheme invariants essentially inaccessible. We present a closed formula for the generating function of the motives (classes in the Grothendieck ring of varieties) of Hilbert schemes of points $\mathrm{Hilb}(\mathbb{C}^n,d)$, varying the ambient dimension $n$ and having fixed the number of points $d$. Joint work with M. Graffeo, S. Monavari and R. Moschetti.
+
+padurariu:
+  title: Hall algebras of Higgs bundles on a curve
+  speaker: padurariu
+  abstract: >
+    <p>I will report on joint work with Yukinobu Toda (partially in progress) about the (categorical) Hall algebra of Higgs bundles on a curve. These categories have semiorthogonal decompositions in certain categories, called quasi-BPS, whose construction is inspired by the enumerative geometry of Calabi-Yau threefolds.
+    <p>I will focus on two conjectural dualitities. The first is between the Hall algebra of semistable Higgs bundles of degree zero and a 'limit' category. This equivalence aims to make precise the proposal of Donagi-Pantev of considering the classical limit of the de Rham Langlands equivalence. The second is a primitive (or BPS) version of the first, and it relates categories of sheaves on moduli of semistable Higgs bundles (fo
