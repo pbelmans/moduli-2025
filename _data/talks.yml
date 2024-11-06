@@ -22,3 +22,9 @@ padurariu:
   abstract: >
     <p>I will report on joint work with Yukinobu Toda (partially in progress) about the (categorical) Hall algebra of Higgs bundles on a curve. These categories have semiorthogonal decompositions in certain categories, called quasi-BPS, whose construction is inspired by the enumerative geometry of Calabi-Yau threefolds.
     <p>I will focus on two conjectural dualitities. The first is between the Hall algebra of semistable Higgs bundles of degree zero and a "limit" category. This equivalence aims to make precise the proposal of Donagi-Pantev of considering the classical limit of the de Rham Langlands equivalence. The second is a primitive (or BPS) version of the first, and it relates categories of sheaves on moduli of semistable Higgs bundles (for various degrees). This equivalence may be regarded as a version of the D-equivalence conjecture / SYZ mirror symmetry. We can prove (partial) versions of these conjectures for topological K-theory of these categories.
+
+kool:
+  title: Nekrasov’s gauge origami and Oh-Thomas’s virtual cycles
+  speaker: kool
+  abstract: >
+    <p>Nekrasov's 4D ADHM quiver is a generalisation of the 2D and 3D ADHM quivers. I will give a mathematical definition of the corresponding "gauge origami" partition function in terms of certain torus localized Oh-Thomas virtual cycles. I will relate the orientation problem of gauge origami to the one of Hilbert schemes of points on affine 4-space, which was previously analysed in physics by Nekrasov-Piazzalunga ("Magnificent Four") and in algebraic geometry in a joint work with J. Rennemo. I will provide a conjectural sheaf-theoretic interpretation of gauge origami in terms of certain moduli of 2-dimensional framed sheaves on $(\mathbb{P}^1)^4$. Joint work in progress with N. Arbesfeld and W. Lim.
