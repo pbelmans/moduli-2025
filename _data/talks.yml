@@ -28,3 +28,9 @@ kool:
   speaker: kool
   abstract: >
     <p>Nekrasov's 4D ADHM quiver is a generalisation of the 2D and 3D ADHM quivers. I will give a mathematical definition of the corresponding "gauge origami" partition function in terms of certain torus localized Oh-Thomas virtual cycles. I will relate the orientation problem of gauge origami to the one of Hilbert schemes of points on affine 4-space, which was previously analysed in physics by Nekrasov-Piazzalunga ("Magnificent Four") and in algebraic geometry in a joint work with J. Rennemo. I will provide a conjectural sheaf-theoretic interpretation of gauge origami in terms of certain moduli of 2-dimensional framed sheaves on $(\mathbb{P}^1)^4$. Joint work in progress with N. Arbesfeld and W. Lim.
+
+zhao:
+  title: The local Langlands correspondence for covering groups
+  speaker: zhao
+  abstract: >
+    <p>The local Langlands correspondence (LLC) for covering groups is a conjectural parametrization of genuine smooth representations of (non-algebraic) covers of $p$-adic reductive groups by L-parameters. In this talk, I will explain how covering groups arise from transgressions of degree-4 characteristic classes, and why this perspective leads to a construction of the LLC whenever the covering degree is coprime to p. This is joint work with T. Feng, I. Gaisin, N. Imai, and T. Koshikawa.
