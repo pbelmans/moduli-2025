@@ -29,6 +29,12 @@ kool:
   abstract: >
     <p>Nekrasov's 4D ADHM quiver is a generalisation of the 2D and 3D ADHM quivers. I will give a mathematical definition of the corresponding "gauge origami" partition function in terms of certain torus localized Oh-Thomas virtual cycles. I will relate the orientation problem of gauge origami to the one of Hilbert schemes of points on affine 4-space, which was previously analysed in physics by Nekrasov-Piazzalunga ("Magnificent Four") and in algebraic geometry in a joint work with J. Rennemo. I will provide a conjectural sheaf-theoretic interpretation of gauge origami in terms of certain moduli of 2-dimensional framed sheaves on $(\mathbb{P}^1)^4$. Joint work in progress with N. Arbesfeld and W. Lim.
 
+rychlewicz:
+  title: From upward flows to spectra of equivariant cohomology rings
+  speaker: rychlewicz
+  abstract: >
+    <p>The motivation for the presented results comes from the study of moduli spaces of Higgs bundles. Recent work of Hausel shows that the Hitchin fibration restricted to the minuscule upward flow is modelled on the spectrum of equivariant cohomology of a Grassmannian. This appears as a zero scheme of a vector field on the Grassmannian itself. In a joint work with Tamas Hausel, we show that it is a special case of a general phenomenon, where the spectrum of the equivariant cohomology ring shows up as a zero scheme associated with the group action. I will present those results, and not less interesting extensions such as those for spherical varieties. In that case the cohomology ring can be read off as a ring of functions on a non-affine zero scheme. We conjecture that equivariant K-theory can be computed from the fixed-point schemes in a similar way.
+
 zhao:
   title: The local Langlands correspondence for covering groups
   speaker: zhao
