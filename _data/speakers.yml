@@ -12,11 +12,6 @@ dutta:
   affiliation: Leiden University
   website: https://www.math.leidenuniv.nl/~duttay/
 
-fu:
-  name: Lie Fu
-  affiliation: University of Strasbourg
-  website: https://irma.math.unistra.fr/~lfu/
-
 kool:
   name: Martijn Kool
   affiliation: Utrecht University
@@ -61,6 +56,11 @@ spenko:
   name: Špela Špenko
   affiliation: Université Libre de Bruxelles
   website: https://www.ulb.be/fr/spela-spenko
+
+stefanich:
+  name: Germán Stefanich
+  affiliation: Max Planck Institute for Mathematics
+  website: https://gstefanich.github.io
 
 zhao:
   name: Yifei Zhao
