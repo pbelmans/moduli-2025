@@ -10,6 +10,12 @@ kool:
   abstract: >
     <p>Nekrasov's 4D ADHM quiver is a generalisation of the 2D and 3D ADHM quivers. I will give a mathematical definition of the corresponding "gauge origami" partition function in terms of certain torus localized Oh-Thomas virtual cycles. I will relate the orientation problem of gauge origami to the one of Hilbert schemes of points on affine 4-space, which was previously analysed in physics by Nekrasov-Piazzalunga ("Magnificent Four") and in algebraic geometry in a joint work with J. Rennemo. I will provide a conjectural sheaf-theoretic interpretation of gauge origami in terms of certain moduli of 2-dimensional framed sheaves on $(\mathbb{P}^1)^4$. Joint work in progress with N. Arbesfeld and W. Lim.
 
+macri:
+  title: Deformations of t-structures
+  speaker: macri
+  abstract: >
+    <p>It is a result by Belmans, Okawa, and Ricolfi that semiorthogonal decompositions of a derived category do have a very special algebraic structure in family: they form an algebraic space, which is étale over the base scheme. The aim of this talk is to present a conjecture on the behavior of bounded t-structures with noetherian heart, which should be analogous to the case of semiorthogonal decompositions. We will show how to prove part of this conjecture: in particular, a formal deformation statement for bounded t-structures with noetherian heart, which in itself has already several applications. This is joint work with Alexander Perry and Paolo Stellari, with the applications being part of a joint project together also with Chunyi Li and Xiaolei Zhao.
+
 padurariu:
   title: Hall algebras of Higgs bundles on a curve
   speaker: padurariu
