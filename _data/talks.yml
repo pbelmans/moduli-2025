@@ -4,6 +4,19 @@ krah:
   abstract: >
     <p>A scheme $X$ is a splinter if for any finite surjective morphism $f\colon Y \to X$ the pullback map $\mathcal{O}_X \to f_* \mathcal{O}_Y$ splits as $\mathcal{O}_X$-modules. By the direct summand conjecture, now a theorem due to André, every regular Noetherian ring is a splinter. Whilst for affine schemes the splinter property can be viewed as a local measure of singularity, the splinter property imposes strong constraints on the global geometry of proper schemes over a field of positive characteristic. For instance, the structure sheaf of a proper splinter in positive characteristic has vanishing positive-degree cohomology. I will report on joint work with Charles Vial concerning further obstructions on the global geometry of proper splinters in positive characteristic. Further, I will address the derived-invariance of the (derived-)splinter property.
 
+kool:
+  title: Nekrasov’s gauge origami and Oh-Thomas’s virtual cycles
+  speaker: kool
+  abstract: >
+    <p>Nekrasov's 4D ADHM quiver is a generalisation of the 2D and 3D ADHM quivers. I will give a mathematical definition of the corresponding "gauge origami" partition function in terms of certain torus localized Oh-Thomas virtual cycles. I will relate the orientation problem of gauge origami to the one of Hilbert schemes of points on affine 4-space, which was previously analysed in physics by Nekrasov-Piazzalunga ("Magnificent Four") and in algebraic geometry in a joint work with J. Rennemo. I will provide a conjectural sheaf-theoretic interpretation of gauge origami in terms of certain moduli of 2-dimensional framed sheaves on $(\mathbb{P}^1)^4$. Joint work in progress with N. Arbesfeld and W. Lim.
+
+padurariu:
+  title: Hall algebras of Higgs bundles on a curve
+  speaker: padurariu
+  abstract: >
+    <p>I will report on joint work with Yukinobu Toda (partially in progress) about the (categorical) Hall algebra of Higgs bundles on a curve. These categories have semiorthogonal decompositions in certain categories, called quasi-BPS, whose construction is inspired by the enumerative geometry of Calabi-Yau threefolds.
+    <p>I will focus on two conjectural dualitities. The first is between the Hall algebra of semistable Higgs bundles of degree zero and a "limit" category. This equivalence aims to make precise the proposal of Donagi-Pantev of considering the classical limit of the de Rham Langlands equivalence. The second is a primitive (or BPS) version of the first, and it relates categories of sheaves on moduli of semistable Higgs bundles (for various degrees). This equivalence may be regarded as a version of the D-equivalence conjecture / SYZ mirror symmetry. We can prove (partial) versions of these conjectures for topological K-theory of these categories.
+
 reineke:
   title: Motives of Kronecker moduli
   speaker: reineke
@@ -15,19 +28,6 @@ ricolfi:
   speaker: ricolfi
   abstract: >
     <p>The geometry of Hilbert schemes of points is largely unknown, or known to be pathological in a precise sense. This should in principle make most Hilbert scheme invariants essentially inaccessible. We present a closed formula for the generating function of the motives (classes in the Grothendieck ring of varieties) of Hilbert schemes of points $\mathrm{Hilb}(\mathbb{C}^n,d)$, varying the ambient dimension $n$ and having fixed the number of points $d$. Joint work with M. Graffeo, S. Monavari and R. Moschetti.
-
-padurariu:
-  title: Hall algebras of Higgs bundles on a curve
-  speaker: padurariu
-  abstract: >
-    <p>I will report on joint work with Yukinobu Toda (partially in progress) about the (categorical) Hall algebra of Higgs bundles on a curve. These categories have semiorthogonal decompositions in certain categories, called quasi-BPS, whose construction is inspired by the enumerative geometry of Calabi-Yau threefolds.
-    <p>I will focus on two conjectural dualitities. The first is between the Hall algebra of semistable Higgs bundles of degree zero and a "limit" category. This equivalence aims to make precise the proposal of Donagi-Pantev of considering the classical limit of the de Rham Langlands equivalence. The second is a primitive (or BPS) version of the first, and it relates categories of sheaves on moduli of semistable Higgs bundles (for various degrees). This equivalence may be regarded as a version of the D-equivalence conjecture / SYZ mirror symmetry. We can prove (partial) versions of these conjectures for topological K-theory of these categories.
-
-kool:
-  title: Nekrasov’s gauge origami and Oh-Thomas’s virtual cycles
-  speaker: kool
-  abstract: >
-    <p>Nekrasov's 4D ADHM quiver is a generalisation of the 2D and 3D ADHM quivers. I will give a mathematical definition of the corresponding "gauge origami" partition function in terms of certain torus localized Oh-Thomas virtual cycles. I will relate the orientation problem of gauge origami to the one of Hilbert schemes of points on affine 4-space, which was previously analysed in physics by Nekrasov-Piazzalunga ("Magnificent Four") and in algebraic geometry in a joint work with J. Rennemo. I will provide a conjectural sheaf-theoretic interpretation of gauge origami in terms of certain moduli of 2-dimensional framed sheaves on $(\mathbb{P}^1)^4$. Joint work in progress with N. Arbesfeld and W. Lim.
 
 rychlewicz:
   title: From upward flows to spectra of equivariant cohomology rings
