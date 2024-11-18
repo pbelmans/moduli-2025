@@ -1,8 +1,14 @@
-krah:
-  title: On proper splinters in positive characteristic
-  speaker: krah
+craw:
+  title: Hilbert schemes of points on canonical surfaces
+  speaker: craw
   abstract: >
-    <p>A scheme $X$ is a splinter if for any finite surjective morphism $f\colon Y \to X$ the pullback map $\mathcal{O}_X \to f_* \mathcal{O}_Y$ splits as $\mathcal{O}_X$-modules. By the direct summand conjecture, now a theorem due to André, every regular Noetherian ring is a splinter. Whilst for affine schemes the splinter property can be viewed as a local measure of singularity, the splinter property imposes strong constraints on the global geometry of proper schemes over a field of positive characteristic. For instance, the structure sheaf of a proper splinter in positive characteristic has vanishing positive-degree cohomology. I will report on joint work with Charles Vial concerning further obstructions on the global geometry of proper splinters in positive characteristic. Further, I will address the derived-invariance of the (derived-)splinter property.
+    <p> For an algebraic surface $S$ with canonical (resp. symplectic) singularities and for any positive integer $n$, I'll explain why the Hilbert scheme of $n$ points on $S$ also has canonical (resp. symplectic) singularities. In particular, these Hilbert schemes are normal varieties. The main results generalise well-known work of Fogarty (1968) and Beauville (1983) for non-singular surfaces. Our main tool is a generalisation of the Le Bruyn-Procesi theorem that describes the invariant algebra for the natural action of the product of general linear groups on the space of representations of a quiver for a given dimension vector. This is joint work with Ryo Yamagishi.
+
+macri:
+  title: Deformations of t-structures
+  speaker: macri
+  abstract: >
+    <p>It is a result by Belmans, Okawa, and Ricolfi that semiorthogonal decompositions of a derived category do have a very special algebraic structure in family: they form an algebraic space, which is étale over the base scheme. The aim of this talk is to present a conjecture on the behavior of bounded t-structures with noetherian heart, which should be analogous to the case of semiorthogonal decompositions. We will show how to prove part of this conjecture: in particular, a formal deformation statement for bounded t-structures with noetherian heart, which in itself has already several applications. This is joint work with Alexander Perry and Paolo Stellari, with the applications being part of a joint project together also with Chunyi Li and Xiaolei Zhao.
 
 kool:
   title: Nekrasov’s gauge origami and Oh-Thomas’s virtual cycles
@@ -10,11 +16,17 @@ kool:
   abstract: >
     <p>Nekrasov's 4D ADHM quiver is a generalisation of the 2D and 3D ADHM quivers. I will give a mathematical definition of the corresponding "gauge origami" partition function in terms of certain torus localized Oh-Thomas virtual cycles. I will relate the orientation problem of gauge origami to the one of Hilbert schemes of points on affine 4-space, which was previously analysed in physics by Nekrasov-Piazzalunga ("Magnificent Four") and in algebraic geometry in a joint work with J. Rennemo. I will provide a conjectural sheaf-theoretic interpretation of gauge origami in terms of certain moduli of 2-dimensional framed sheaves on $(\mathbb{P}^1)^4$. Joint work in progress with N. Arbesfeld and W. Lim.
 
-macri:
-  title: Deformations of t-structures
-  speaker: macri
+krah:
+  title: On proper splinters in positive characteristic
+  speaker: krah
   abstract: >
-    <p>It is a result by Belmans, Okawa, and Ricolfi that semiorthogonal decompositions of a derived category do have a very special algebraic structure in family: they form an algebraic space, which is étale over the base scheme. The aim of this talk is to present a conjecture on the behavior of bounded t-structures with noetherian heart, which should be analogous to the case of semiorthogonal decompositions. We will show how to prove part of this conjecture: in particular, a formal deformation statement for bounded t-structures with noetherian heart, which in itself has already several applications. This is joint work with Alexander Perry and Paolo Stellari, with the applications being part of a joint project together also with Chunyi Li and Xiaolei Zhao.
+    <p>A scheme $X$ is a splinter if for any finite surjective morphism $f\colon Y \to X$ the pullback map $\mathcal{O}_X \to f_* \mathcal{O}_Y$ splits as $\mathcal{O}_X$-modules. By the direct summand conjecture, now a theorem due to André, every regular Noetherian ring is a splinter. Whilst for affine schemes the splinter property can be viewed as a local measure of singularity, the splinter property imposes strong constraints on the global geometry of proper schemes over a field of positive characteristic. For instance, the structure sheaf of a proper splinter in positive characteristic has vanishing positive-degree cohomology. I will report on joint work with Charles Vial concerning further obstructions on the global geometry of proper splinters in positive characteristic. Further, I will address the derived-invariance of the (derived-)splinter property.
+
+krug:
+  title: A smooth but non-symplectic moduli of sheaves on a hyperkähler variety
+  speaker: krug
+  abstract: >
+    <p>I will present joint work with Fabian Reede and Ziyu Zhang. For an abelian surface $A$, we consider stable vector bundles on a generalized Kummer variety $\mathrm{K}_n(A)$ with $n>1$. We prove that the connected component of the moduli space which contains the tautological bundles associated to line bundles of degree 0 is isomorphic to the blowup of the dual abelian surface in one point. We believe that this is the first explicit example of a component of a moduli space of sheaves on a hyperkähler variety which is smooth with a non-trivial canonical bundle.
 
 padurariu:
   title: Hall algebras of Higgs bundles on a curve
