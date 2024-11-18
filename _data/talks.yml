@@ -4,6 +4,12 @@ craw:
   abstract: >
     <p> For an algebraic surface $S$ with canonical (resp. symplectic) singularities and for any positive integer $n$, I'll explain why the Hilbert scheme of $n$ points on $S$ also has canonical (resp. symplectic) singularities. In particular, these Hilbert schemes are normal varieties. The main results generalise well-known work of Fogarty (1968) and Beauville (1983) for non-singular surfaces. Our main tool is a generalisation of the Le Bruyn-Procesi theorem that describes the invariant algebra for the natural action of the product of general linear groups on the space of representations of a quiver for a given dimension vector. This is joint work with Ryo Yamagishi.
 
+dutta:
+  title: The relative intermediate Jacobian
+  speaker: dutta
+  abstract: >
+    <p> Intermediate Jacobians for smooth projective varieties play a very similar role as Jacobians play for smooth projective curves. While the relative Jacobian for families of curves is a well-studied concept, the relative intermediate Jacobian is a rather uncharted terrotory. In this talk, I will construct a sheaf of intermediate Jacobians for a family of cubic threefolds (not necessarily smooth). This sheaf will then be used to construct twists of certain intermediate Jacobian fibrations, a story parallel to twists of elliptic fibrations of K3 surfaces. This is a joint work with Mattei and Shinder.
+
 macri:
   title: Deformations of t-structures
   speaker: macri
