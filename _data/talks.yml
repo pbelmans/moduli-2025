@@ -4,6 +4,12 @@ craw:
   abstract: >
     <p> For an algebraic surface $S$ with canonical (resp. symplectic) singularities and for any positive integer $n$, I'll explain why the Hilbert scheme of $n$ points on $S$ also has canonical (resp. symplectic) singularities. In particular, these Hilbert schemes are normal varieties. The main results generalise well-known work of Fogarty (1968) and Beauville (1983) for non-singular surfaces. Our main tool is a generalisation of the Le Bruyn-Procesi theorem that describes the invariant algebra for the natural action of the product of general linear groups on the space of representations of a quiver for a given dimension vector. This is joint work with Ryo Yamagishi.
 
+domokos:
+  title: On the classification of quiver moduli
+  speaker: domokos
+  abstract: >
+    <p>Quiver moduli spaces provide partial solutions to the problem of classifying isomorphism classes of quiver representations (or more generally, finite-dimensional modules over associative algebras). It appears to be an interesting question to try to classify these moduli spaces themselves. In the talk we present some results based mainly on classical invariant theory and combinatorial considerations that may serve as steps towards such a classification.
+
 dutta:
   title: The relative intermediate Jacobian
   speaker: dutta
