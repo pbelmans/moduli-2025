@@ -65,6 +65,12 @@ rychlewicz:
   abstract: >
     <p>The motivation for the presented results comes from the study of moduli spaces of Higgs bundles. Recent work of Hausel shows that the Hitchin fibration restricted to the minuscule upward flow is modelled on the spectrum of equivariant cohomology of a Grassmannian. This appears as a zero scheme of a vector field on the Grassmannian itself. In a joint work with Tamas Hausel, we show that it is a special case of a general phenomenon, where the spectrum of the equivariant cohomology ring shows up as a zero scheme associated with the group action. I will present those results, and not less interesting extensions such as those for spherical varieties. In that case the cohomology ring can be read off as a ring of functions on a non-affine zero scheme. We conjecture that equivariant K-theory can be computed from the fixed-point schemes in a similar way.
 
+spenko:
+  title: Categorical half twist
+  speaker: spenko
+  abstract: >
+    <p>We define half spherical objects that induce (categorical) half twists. We give examples, in the context of the topological Fukaya category of a surface, where we show that the categorical half twist coincides with the geometric half twist, and in the context of divisors in smooth quasi-projective varieties. This is joint work with Alexander Polishchuk and Michel Van den Bergh.
+
 zhao:
   title: The local Langlands correspondence for covering groups
   speaker: zhao
