@@ -71,6 +71,12 @@ spenko:
   abstract: >
     <p>We define half spherical objects that induce (categorical) half twists. We give examples, in the context of the topological Fukaya category of a surface, where we show that the categorical half twist coincides with the geometric half twist, and in the context of divisors in smooth quasi-projective varieties. This is joint work with Alexander Polishchuk and Michel Van den Bergh.
 
+stefanich:
+  title: Tannaka duality and applications
+  speaker: stefanich
+  abstract: >
+    <p>Tannaka duality consists of a web of results that allow one to recover a geometric object from its category of sheaves. Although initially concerned with algebraic groups and their classifying spaces, in the last two decades Tannaka duality has found various applications to the geometry of algebraic stacks. In this talk I will give an introduction to this circle of ideas, and describe recent work which strengthens previous duality results.
+
 zhao:
   title: The local Langlands correspondence for covering groups
   speaker: zhao
